@@ -70,13 +70,13 @@ div.relative {
     padding: 0px;
     margin-top: 50px;
     margin-bottom: 20px;
-    background-image: url(/images/rectangle_7.jpg);
+    background-image: url(images/rectangle_7.jpg);
     opacity: 90%;
   }
   .banner{
     font-size: 40px;;
     padding: 30px;
-    background-image: url(/images/rectangle_4_copy_2.jpg);
+    background-image: url(images/rectangle_4_copy_2.jpg);
   }
   .text-banner{
     color: white;
@@ -92,7 +92,7 @@ div.relative {
     margin-top: 100px;
   }
   .partbg{
-    background-image: url(/images/rectangle_7.jpg);
+    background-image: url(images/rectangle_7.jpg);
     opacity: 90%;
  
   }
